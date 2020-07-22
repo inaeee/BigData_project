@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592748275522.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2091887120",
+    "id" : "177ABC9F",
+    "lastKnownWriteTime" : 1592815526,
+    "last_content_update" : 1592815526947,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/finalproject/one.R",
+    "project_path" : "one.R",
+    "properties" : {
+        "cursorPosition" : "75,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
